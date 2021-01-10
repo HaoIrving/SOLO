@@ -107,7 +107,7 @@ venv.bak/
 mmdet/ops/nms/src/soft_nms_cpu.cpp
 mmdet/version.py
 data
-.vscode
+.vscode/settings.json
 .idea
 
 # custom
